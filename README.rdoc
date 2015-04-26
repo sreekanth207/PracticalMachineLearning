@@ -1,0 +1,2 @@
+This document contains the Deck for Car Performance from mtcars data set.
+It has five slides explaining the same and also a link to Slidify web app.
